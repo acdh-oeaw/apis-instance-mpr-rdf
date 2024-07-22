@@ -1,0 +1,107 @@
+ould not save uri https://sws.geonames.org/2782113/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/2782113/) already exists.
+
+Could not save uri https://sws.geonames.org/798549/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/798549/) already exists.
+
+Could not save uri https://sws.geonames.org/3175395/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3175395/) already exists.
+
+Could not save uri https://sws.geonames.org/690791/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/690791/) already exists.
+
+Could not save uri https://sws.geonames.org/3077311/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3077311/) already exists.
+
+Could not save uri https://sws.geonames.org/798544/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/798544/) already exists.
+
+Could not save uri https://sws.geonames.org/3164603/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3164603/) already exists.
+
+Could not save uri https://sws.geonames.org/6541866/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/6541866/) already exists.
+
+Could not save uri https://sws.geonames.org/2658434/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/2658434/) already exists.
+
+Could not save uri https://sws.geonames.org/3057568/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3057568/) already exists.
+
+Could not save uri https://sws.geonames.org/3202326/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3202326/) already exists.
+
+Could not save uri https://d-nb.info/gnd/4074335-4: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/4074335-4) already exists.
+
+Could not save uri https://d-nb.info/gnd/4043271-3: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/4043271-3) already exists.
+
+Could not save uri https://sws.geonames.org/3068927/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3068927/) already exists.
+
+Could not save uri https://sws.geonames.org/2017370/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/2017370/) already exists.
+
+Could not save uri https://d-nb.info/gnd/4005728-8: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/4005728-8) already exists.
+
+Could not save uri https://sws.geonames.org/3186952/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3186952/) already exists.
+
+Could not save uri https://sws.geonames.org/3077835/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3077835/) already exists.
+
+Could not save uri https://sws.geonames.org/719819/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/719819/) already exists.
+
+Could not save uri https://d-nb.info/gnd/118620428: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/118620428) already exists.
+
+Could not save uri https://d-nb.info/gnd/118651625: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/118651625) already exists.
+
+Could not save uri https://sws.geonames.org/6290252/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/6290252/) already exists.
+
+Could not save uri https://sws.geonames.org/732800/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/732800/) already exists.
+
+Could not save uri https://sws.geonames.org/298795/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/298795/) already exists.
+
+Could not save uri https://d-nb.info/gnd/4005762-8: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/4005762-8) already exists.
+
+Could not save uri https://sws.geonames.org/357994/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/357994/) already exists.
+
+Could not save uri https://sws.geonames.org/3103402/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3103402/) already exists.
+
+Could not save uri https://sws.geonames.org/763534/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/763534/) already exists.
+
+Could not save uri https://d-nb.info/gnd/4066004-7: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/4066004-7) already exists.
+
+Could not save uri http://d-nb.info/gnd/118502875: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/118502875) already exists.
+
+Could not save uri https://sws.geonames.org/6252001/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/6252001/) already exists.
+
+Could not save uri https://d-nb.info/gnd/4066009-6: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/4066009-6) already exists.
+
+Could not save uri https://sws.geonames.org/2921044/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/2921044/) already exists.
+
+Could not save uri https://d-nb.info/gnd/4076310-9: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/4076310-9) already exists.
+
+Could not save uri https://d-nb.info/gnd/4074255-6: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://d-nb.info/gnd/4074255-6) already exists.
+
+Could not save uri https://sws.geonames.org/3017382/: duplicate key value violates unique constraint "apis_metainfo_uri_uri_key"
+DETAIL:  Key (uri)=(https://sws.geonames.org/3017382/) already exists.
