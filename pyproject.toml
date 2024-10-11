@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "apis-instance-oebl-pnp"
+name = "apis-instance-mpr-rdf"
 version = "0.1.0"
-description = "APIS instance OEBL"
-authors = ["Birger Schacht <birger.schacht@oeaw.ac.at>"]
+description = "APIS instance MPR"
+authors = ["Birger Schacht <birger.schacht@oeaw.ac.at>", "Matthias Schlögl <matthias.schloegl@oeaw.ac.at>"]
 license = "MIT"
 packages = [{include = "apis_ontology"}]
 
