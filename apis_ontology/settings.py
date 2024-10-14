@@ -10,8 +10,6 @@ INSTALLED_APPS += ["django_acdhch_functions"]
 
 ROOT_URLCONF = 'apis_ontology.urls'
 
-PROJECT_DEFAULT_MD = {}
-
 ALLOWED_HOSTS = ["mpr.acdh-ch-dev.oeaw.ac.at"]
 
 CSRF_TRUSTED_ORIGINS = ["https://mpr.acdh-ch-dev.oeaw.ac.at"]
