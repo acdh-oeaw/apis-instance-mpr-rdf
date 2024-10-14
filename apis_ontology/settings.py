@@ -9,8 +9,6 @@ INSTALLED_APPS.insert(0, "apis_ontology")
 
 ROOT_URLCONF = 'apis_ontology.urls'
 
-PROJECT_DEFAULT_MD = {}
-
 ALLOWED_HOSTS = ["mpr.acdh-ch-dev.oeaw.ac.at"]
 
 CSRF_TRUSTED_ORIGINS = ["https://mpr.acdh-ch-dev.oeaw.ac.at"]
