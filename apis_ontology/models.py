@@ -87,10 +87,6 @@ class Profession(GenericModel, models.Model):
         return self.name or f"No name ({self.id})"
 
 
-class Parentprofession(GenericModel, models.Model):
-    label = models.CharField()
-
-
 class Event(LegacyStuffMixin, VersionMixin, LegacyDateMixin, AbstractEntity):
     kind = models.CharField(max_length=255, blank=True, null=True)
     name = models.CharField(max_length=255, verbose_name="Name", blank=True)
@@ -128,8 +124,6 @@ class Person(VersionMixin, LegacyStuffMixin, LegacyDateMixin, AbstractEntity):
     forename = models.CharField(max_length=255, help_text="The persons´s forename. In case of more then one name...", blank=True, null=True)
     profession = models.ManyToManyField(Profession, blank=True)
     professioncategory = models.ForeignKey(ProfessionCategory, on_delete=models.CASCADE, null=True, blank=True)
-    profession_father = models.ManyToManyField(Parentprofession, blank=True, related_name="father_person_set")
-    profession_mother = models.ManyToManyField(Parentprofession, blank=True, related_name="mother_person_set")
     title = models.ManyToManyField(Title, blank=True)
     gender = models.CharField(max_length=15, choices=GENDER_CHOICES, blank=True, null=True)
     external_resources = models.CharField(verbose_name="Externe Verweise", blank=True, null=True)
