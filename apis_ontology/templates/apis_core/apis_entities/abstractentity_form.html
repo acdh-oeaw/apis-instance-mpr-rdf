@@ -1,5 +1,4 @@
 {% extends "apis_core/apis_entities/abstractentity_form.html" %}
-{% load apis_highlighter %}
 
 {% block scriptHeader %}
 {{ block.super }}
@@ -33,25 +32,3 @@ function delmap(element) {
 }
 </style>
 {% endblock %}
-
-{% block col-one %}
-
-{% if object.oebl_haupttext %}
-<div class="card mb-2">
-  <div class="card-header">
-  ÖBL Haupttext {% select_highlighter_project request %}
-  </div>
-  <div class="card-body">
-    {% highlight_text object request "oebl_haupttext" %}
-  </div>
-</div>
-{% endif %}
-
-{{ block.super }}
-
-{% endblock col-one %}
-
-{% block scripts %}
-{{ block.super }}
-{% include "apis_highlighter/apis_highlighter.html" %}
-{% endblock scripts %}
