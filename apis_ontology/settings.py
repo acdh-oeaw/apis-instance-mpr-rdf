@@ -6,8 +6,6 @@ INSTALLED_APPS += ["django.contrib.postgres", "apis_core.collections", "apis_cor
 INSTALLED_APPS.remove("apis_ontology")
 INSTALLED_APPS.insert(0, "apis_ontology")
 
-ROOT_URLCONF = 'apis_ontology.urls'
-
 CSRF_TRUSTED_ORIGINS = ["https://mpr.acdh-ch-dev.oeaw.ac.at"]
 
 
